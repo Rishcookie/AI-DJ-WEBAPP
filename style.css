@@ -1,0 +1,30 @@
+
+#heading{
+    width: 100%;
+    margin:0;
+    font-size: 33px;
+    color: white;
+    font-family: 'Sigmar One', cursive;
+    font-weight: 100;
+
+}
+
+p{
+    background-color: rgb(240, 189, 48);
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+}
+
+body{
+    text-align: center;
+    background-image: url("music.jpg");
+}
+
+#btn_songname{
+    font-size: 23px;
+    margin: 15px;
+    background-color: rgb(233, 40, 40);
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
